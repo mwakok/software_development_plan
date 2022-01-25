@@ -18,6 +18,8 @@
 
 * [Fundamentals of Software Architecture](https://tudelft.on.worldcat.org/v2/search/detail/1141018084?queryString=Fundamentals%20of%20Software%20Architecture)
 
+* [Full Stack Software Design](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design)
+
 ### Software Architecture diagrams
 
 * [C4 model](https://c4model.com/)
