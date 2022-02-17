@@ -20,6 +20,10 @@
 
 * [Full Stack Software Design](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design)
 
+* [DLR Software Engineering Initiative](https://rse.dlr.de/guidelines/00_dlr-se-guidelines_en.html#anwendungsklassen)
+
+* [Blog on testing for research software](https://www.software.ac.uk/blog/2021-12-22-testing-research-software-review-iccs-2021-and-septembrse)
+
 ### Software Architecture diagrams
 
 * [C4 model](https://c4model.com/)
