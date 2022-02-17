@@ -24,6 +24,8 @@
 
 * [Blog on testing for research software](https://www.software.ac.uk/blog/2021-12-22-testing-research-software-review-iccs-2021-and-septembrse)
 
+* [A Framework for Understanding Research Software Sustainability](https://doi.org/10.5281/zenodo.4988277 )
+
 ### Software Architecture diagrams
 
 * [C4 model](https://c4model.com/)
