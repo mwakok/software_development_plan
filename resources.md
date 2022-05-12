@@ -26,6 +26,10 @@
 
 * [A Framework for Understanding Research Software Sustainability](https://doi.org/10.5281/zenodo.4988277 )
 
+### Developing open source software
+
+* [Producing Open Source Software](https://producingoss.com/en/producingoss-letter.pdf)
+
 ### Software Architecture diagrams
 
 * [C4 model](https://c4model.com/)
